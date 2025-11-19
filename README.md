@@ -21,6 +21,7 @@ O programa processa os dados inseridos, convertendo-os para os tipos apropriados
 **Saída:**
 O programa exibe todas as informações fornecidas pelo usuário formatadas de maneira organizada, seguindo o padrão especificado para números reais.
 
-
+CÓDIGO FONTE: 
+ 
 <img width="1497" height="971" alt="image" src="https://github.com/user-attachments/assets/6f565ac9-263b-4994-bdd1-2eea13a4d46c" />
 
