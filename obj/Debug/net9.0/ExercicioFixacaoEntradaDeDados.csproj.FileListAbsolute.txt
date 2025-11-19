@@ -1,0 +1,15 @@
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\bin\Debug\net9.0\ExercicioFixacaoEntradaDeDados.exe
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\bin\Debug\net9.0\ExercicioFixacaoEntradaDeDados.deps.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\bin\Debug\net9.0\ExercicioFixacaoEntradaDeDados.runtimeconfig.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\bin\Debug\net9.0\ExercicioFixacaoEntradaDeDados.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\bin\Debug\net9.0\ExercicioFixacaoEntradaDeDados.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.AssemblyInfo.cs
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.sourcelink.json
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\refint\ExercicioFixacaoEntradaDeDados.dll
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.pdb
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ExercicioFixacaoEntradaDeDados.genruntimeconfig.cache
+C:\Users\Monaliza\Desktop\Pedro\Curso C#\Projetos\ExercicioFixacaoEntradaDeDados\ExercicioFixacaoEntradaDeDados\obj\Debug\net9.0\ref\ExercicioFixacaoEntradaDeDados.dll
